@@ -14,4 +14,4 @@ for file in os.listdir(path):
 
 
 
-#print("These are the text files and when they were last modified: {} \n{}".format(dir_list, time))
+
